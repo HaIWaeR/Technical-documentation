@@ -9,8 +9,7 @@
 ```bash
 git clone https://github.com/HaIWaeR/Technical-documentation.git
 ```
-
-
+---
 
 ### Коммит проекта на git 
 
