@@ -9,12 +9,12 @@
     src="https://github.com/user-attachments/assets/1374503c-5eb9-4d0a-a630-2c28af941de4" 
     width="500" 
     height="266" 
-    style="border: 2px solid #e1e4e8; border-radius: 8px; padding: 10px; background: white;"
+    style="border: 10px solid #e1e4e8; border-radius: 8px; padding: 10px; background: white;"
     alt="Скриншот репозитория GitHub"
   >
-  <br>
-  <em>Главная страница репозитория</em>
 </div>
+
+
 1. **Найдите кнопку "Code"**  
    На главной странице репозитория найдите зелёную кнопку "Code" в правом верхнем углу.
 
