@@ -10,6 +10,8 @@
 git clone https://github.com/HaIWaeR/Technical-documentation.git
 ```
 
+
+
 ### Коммит проекта на git 
 
 #### Подготавливает ВСЕ изменённые файлы для сохранения
