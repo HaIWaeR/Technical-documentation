@@ -11,6 +11,7 @@ git clone https://github.com/HaIWaeR/Technical-documentation.git
 ```
 **Что делает:** Скачивает все файлы проекта на ваш компьютер
 
+
 #### Команда 2: Добавление изменений в коммит
 ```bash
 git add .
@@ -20,6 +21,7 @@ git add .
 ```bash
 git add README.md
 ```
+
 
 #### Команда 3: Создание и отправка коммита
 ```bash
