@@ -1,6 +1,6 @@
-**Папков Виталий**  
-**Группа:** ИТ-11.24.3  
-**Email:** PapkovVM24@spb.ithub.ru
+Папков Виталий  
+Группа: ИТ-11.24.3  
+Email: PapkovVM24@spb.ithub.ru
 
 ---
 
