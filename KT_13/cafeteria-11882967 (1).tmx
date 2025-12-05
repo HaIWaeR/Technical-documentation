@@ -1,0 +1,2309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+    <header
+            creationtool="Matecat-Cattool"
+            creationtoolversion="v3.4.24"
+	    o-tmf="Matecat"
+            creationid="Matecat"
+            datatype="plaintext"
+            segtype="sentence"
+            adminlang="en-US"
+            srclang="ru-RU"/>
+    <body>
+    <tu tuid="4795109929" creationdate="20251205T081616Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109929</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre"></prop>
+        <prop type="x-context-post">Инв. &#8470; подл.</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Министерство науки и высшего образования Российской Федерации</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Ministry of Science and Higher Education of the Russian Federation</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109930" creationdate="20251205T081618Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109930</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Министерство науки и высшего образования Российской Федерации</prop>
+        <prop type="x-context-post">Подп. и дата</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Инв. &#8470; подл.</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Orig. Inv. No.</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109931" creationdate="20251205T082550Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109931</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Инв. &#8470; подл.</prop>
+        <prop type="x-context-post">Взам. </prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Подп. и дата</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Sign. and date</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109932" creationdate="20251205T082551Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109932</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Подп. и дата</prop>
+        <prop type="x-context-post">Инв &#8470;  Инв. &#8470;  дубл.</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Взам. </seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Repl. </seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109933" creationdate="20251205T082553Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109933</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Взам. </prop>
+        <prop type="x-context-post">Подп. и дата</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Инв &#8470;  Инв. &#8470;  дубл.</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Inv. No. Dupl. Inv. No.</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109934" creationdate="20251205T082554Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109934</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Инв &#8470;  Инв. &#8470;  дубл.</prop>
+        <prop type="x-context-post">УТВЕРЖДАЮ</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Подп. и дата</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Sign. and date</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109935" creationdate="20251205T082555Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109935</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Подп. и дата</prop>
+        <prop type="x-context-post">Директор ИПН ГПНД</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>УТВЕРЖДАЮ</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>APPROVED BY</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109936" creationdate="20251205T082558Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109936</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">УТВЕРЖДАЮ</prop>
+        <prop type="x-context-post"><g id="1">&#09;</g>А. Б. Похмелевский</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Директор ИПН ГПНД</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Director of IPN GPND</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109937" creationdate="20251205T082600Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109937</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Директор ИПН ГПНД</prop>
+        <prop type="x-context-post">«<g id="1">&#09;</g>»<g id="2">&#09;</g>2018 г.</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>&lt;g id="1"&gt;&#09;&lt;/g&gt;А. Б. Похмелевский</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>&#09;&lt;g id="1"&gt;&#09;&lt;/g&gt;A. B. Pokhmelevsky</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109938" creationdate="20251205T082602Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109938</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre"><g id="1">&#09;</g>А. Б. Похмелевский</prop>
+        <prop type="x-context-post">М.П.</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>«&lt;g id="1"&gt;&#09;&lt;/g&gt;»&lt;g id="2"&gt;&#09;&lt;/g&gt;2018 г.</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>«&#09;&#09;&lt;g id="1"&gt;&#09;&lt;/g&gt;»&lt;g id="2"&gt;&#09;&lt;/g&gt;2018</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109939" creationdate="20251205T082603Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109939</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">«<g id="1">&#09;</g>»<g id="2">&#09;</g>2018 г.</prop>
+        <prop type="x-context-post">ГЕНЕРАТОР ПРОГРАММНОЙ ДОКУМЕНТАЦИИ И НАУЧНО-ИССЛЕДОВАТЕЛЬСКИХ ОТЧЁТОВ ИЗ ИСХОДНЫХ ФАЙЛОВ ФОРМАТА «MARKDOWN»</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>М.П.</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>L. S.</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109940" creationdate="20251205T082604Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109940</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">М.П.</prop>
+        <prop type="x-context-post">Описание программы ЛИСТ УТВЕРЖДЕНИЯ АБВГ.00099-01 13 01-ЛУ</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>ГЕНЕРАТОР ПРОГРАММНОЙ ДОКУМЕНТАЦИИ И НАУЧНО-ИССЛЕДОВАТЕЛЬСКИХ ОТЧЁТОВ ИЗ ИСХОДНЫХ ФАЙЛОВ ФОРМАТА «MARKDOWN»</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>GENERATOR OF SOFTWARE DOCUMENTATION AND RESEARCH REPORTS FROM THE SOURCE FILES OF THE "MARKDOWN" FORMAT</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109941" creationdate="20251205T082609Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109941</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">ГЕНЕРАТОР ПРОГРАММНОЙ ДОКУМЕНТАЦИИ И НАУЧНО-ИССЛЕДОВАТЕЛЬСКИХ ОТЧЁТОВ ИЗ ИСХОДНЫХ ФАЙЛОВ ФОРМАТА «MARKDOWN»</prop>
+        <prop type="x-context-post">СОГЛАСОВАНО</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Описание программы ЛИСТ УТВЕРЖДЕНИЯ АБВГ.00099-01 13 01-ЛУ</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Program description APPROVAL SHEETABVG.00099-01 13 01-LU</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109942" creationdate="20251205T082611Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109942</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Описание программы ЛИСТ УТВЕРЖДЕНИЯ АБВГ.00099-01 13 01-ЛУ</prop>
+        <prop type="x-context-post">Научный руководитель ОКР</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>СОГЛАСОВАНО</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>AGREED</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109943" creationdate="20251205T082611Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109943</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">СОГЛАСОВАНО</prop>
+        <prop type="x-context-post"><g id="1">&#09;</g>А. Б. Гвоздоедов</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Научный руководитель ОКР</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Scientific Supervisor</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109944" creationdate="20251205T082613Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109944</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Научный руководитель ОКР</prop>
+        <prop type="x-context-post">Главный конструктор ОКР</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>&lt;g id="1"&gt;&#09;&lt;/g&gt;А. Б. Гвоздоедов</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>&#09;&lt;g id="1"&gt;&#09;&lt;/g&gt;A. B. Gvozdoyedov</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109945" creationdate="20251205T082622Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109945</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre"><g id="1">&#09;</g>А. Б. Гвоздоедов</prop>
+        <prop type="x-context-post"><g id="1">&#09;</g>Д. Е. Волкодавов</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Главный конструктор ОКР</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Chief Designer</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109946" creationdate="20251205T082626Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109946</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Главный конструктор ОКР</prop>
+        <prop type="x-context-post">Ответственный исполнитель ОКР</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>&lt;g id="1"&gt;&#09;&lt;/g&gt;Д. Е. Волкодавов</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>&#09;&lt;g id="1"&gt;&#09;&lt;/g&gt;D. E. Volkodavov</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109947" creationdate="20251205T082627Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109947</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre"><g id="1">&#09;</g>Д. Е. Волкодавов</prop>
+        <prop type="x-context-post"><g id="1">&#09;</g> Е. Ф. Помидоркина</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Ответственный исполнитель ОКР</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Responsible person</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109948" creationdate="20251205T082629Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109948</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Ответственный исполнитель ОКР</prop>
+        <prop type="x-context-post">Нормоконтролер</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>&lt;g id="1"&gt;&#09;&lt;/g&gt; Е. Ф. Помидоркина</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>&#09; &lt;g id="1"&gt;&#09;&lt;/g&gt; E. F. Pomidorkina</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109949" creationdate="20251205T082629Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109949</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre"><g id="1">&#09;</g> Е. Ф. Помидоркина</prop>
+        <prop type="x-context-post"><g id="1">&#09;</g>М. Ю. Толстолобенко</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Нормоконтролер</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Compliance manager</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109950" creationdate="20251205T082631Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109950</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Нормоконтролер</prop>
+        <prop type="x-context-post">2019</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>&lt;g id="1"&gt;&#09;&lt;/g&gt;М. Ю. Толстолобенко</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>&#09;&lt;g id="1"&gt;&#09;&lt;/g&gt;M. Yu. Tolstolobenko</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109951" creationdate="20251205T082631Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109951</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre"><g id="1">&#09;</g>М. Ю. Толстолобенко</prop>
+        <prop type="x-context-post">АБВГ.00099-01 13 01</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>2019</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>2019</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109952" creationdate="20251205T082632Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109952</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">2019</prop>
+        <prop type="x-context-post">Инв. &#8470; подл.</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>АБВГ.00099-01 13 01</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>ABVG.00099-01 13 01</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109953" creationdate="20251205T082632Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109953</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">АБВГ.00099-01 13 01</prop>
+        <prop type="x-context-post">Подп. и дата</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Инв. &#8470; подл.</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Orig. Inv. No.</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109954" creationdate="20251205T082633Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109954</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Инв. &#8470; подл.</prop>
+        <prop type="x-context-post">Взам. </prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Подп. и дата</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Sign. and date</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109955" creationdate="20251205T082633Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109955</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Подп. и дата</prop>
+        <prop type="x-context-post">Инв &#8470;  Инв. &#8470;  дубл.</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Взам. </seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Repl. </seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109956" creationdate="20251205T082634Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109956</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Взам. </prop>
+        <prop type="x-context-post">Подп. и дата</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Инв &#8470;  Инв. &#8470;  дубл.</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Inv. No. Dupl. Inv. No.</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109957" creationdate="20251205T082635Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109957</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Инв &#8470;  Инв. &#8470;  дубл.</prop>
+        <prop type="x-context-post">УТВЕРЖДЕН АБВГ.00099-01 13 01–ЛУ</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Подп. и дата</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Sign. and date</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109958" creationdate="20251205T082635Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109958</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Подп. и дата</prop>
+        <prop type="x-context-post">ГЕНЕРАТОР ПРОГРАММНОЙ ДОКУМЕНТАЦИИ И НАУЧНО-ИССЛЕДОВАТЕЛЬСКИХ ОТЧЁТОВ ИЗ ИСХОДНЫХ ФАЙЛОВ ФОРМАТА «MARKDOWN»</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>УТВЕРЖДЕН АБВГ.00099-01 13 01–ЛУ</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>APPROVED BYABVG.00099-01 13 01-LU</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109959" creationdate="20251205T082636Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109959</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">УТВЕРЖДЕН АБВГ.00099-01 13 01–ЛУ</prop>
+        <prop type="x-context-post">Описание программы АБВГ.00099-01 13 01</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>ГЕНЕРАТОР ПРОГРАММНОЙ ДОКУМЕНТАЦИИ И НАУЧНО-ИССЛЕДОВАТЕЛЬСКИХ ОТЧЁТОВ ИЗ ИСХОДНЫХ ФАЙЛОВ ФОРМАТА «MARKDOWN»</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>GENERATOR OF SOFTWARE DOCUMENTATION AND RESEARCH REPORTS FROM THE SOURCE FILES OF THE "MARKDOWN" FORMAT</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109960" creationdate="20251205T082636Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109960</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">ГЕНЕРАТОР ПРОГРАММНОЙ ДОКУМЕНТАЦИИ И НАУЧНО-ИССЛЕДОВАТЕЛЬСКИХ ОТЧЁТОВ ИЗ ИСХОДНЫХ ФАЙЛОВ ФОРМАТА «MARKDOWN»</prop>
+        <prop type="x-context-post">Листов 6</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Описание программы АБВГ.00099-01 13 01</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Description of the programАБВГ .00099-01 13 01</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109961" creationdate="20251205T082637Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109961</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Описание программы АБВГ.00099-01 13 01</prop>
+        <prop type="x-context-post">2019</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Листов 6</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Sheets 6</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109962" creationdate="20251205T082637Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109962</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Листов 6</prop>
+        <prop type="x-context-post">ТЕХНИЧЕСКОЕ ЗАДАНИЕ: TELEGRAM-БОТ ДЛЯ КОФЕЙНИ</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>2019</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>2019</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109963" creationdate="20251205T082638Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109963</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">2019</prop>
+        <prop type="x-context-post">1. Введение</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>ТЕХНИЧЕСКОЕ ЗАДАНИЕ: TELEGRAM-БОТ ДЛЯ КОФЕЙНИ</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>TERMS OF REFERENCE: TELEGRAM-BOT FOR COFFEE SHOP</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109964" creationdate="20251205T082638Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109964</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">ТЕХНИЧЕСКОЕ ЗАДАНИЕ: TELEGRAM-БОТ ДЛЯ КОФЕЙНИ</prop>
+        <prop type="x-context-post">Telegram-бот для местной кофейни, предназначенный для увеличения потока кли- ентов в непиковые часы через удобный заказ и оплату напитков с последующей достав- кой или самовывозом.</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>1. Введение</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>1. Introduction</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109965" creationdate="20251205T082640Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109965</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">1. Введение</prop>
+        <prop type="x-context-post">2. Цели и задачи</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Telegram-бот для местной кофейни, предназначенный для увеличения потока кли- ентов в непиковые часы через удобный заказ и оплату напитков с последующей достав- кой или самовывозом.</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Telegram-bot for a local coffee shop, designed to increase the flow of customers during off-peak hours through convenient ordering and payment for drinks with subsequent delivery or pickup.</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109966" creationdate="20251205T082641Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109966</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Telegram-бот для местной кофейни, предназначенный для увеличения потока кли- ентов в непиковые часы через удобный заказ и оплату напитков с последующей достав- кой или самовывозом.</prop>
+        <prop type="x-context-post">2.1. Цели проекта</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>2. Цели и задачи</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>2. Tasks and Objectives</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109967" creationdate="20251205T082642Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109967</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">2. Цели и задачи</prop>
+        <prop type="x-context-post">Создание Telegram-бота для кофейни</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>2.1. Цели проекта</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>2.1. Project Objectives</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109968" creationdate="20251205T082642Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109968</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">2.1. Цели проекта</prop>
+        <prop type="x-context-post">Организация оплаты заказов через бота</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Создание Telegram-бота для кофейни</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Creating a Telegram bot for a coffee shop</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109969" creationdate="20251205T082643Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109969</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Создание Telegram-бота для кофейни</prop>
+        <prop type="x-context-post">Реализация системы доставки заказов</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Организация оплаты заказов через бота</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Organization of payment for orders through the bot</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109970" creationdate="20251205T082644Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109970</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Организация оплаты заказов через бота</prop>
+        <prop type="x-context-post">Внедрение функции вызова курьера</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Реализация системы доставки заказов</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Implementation of an order delivery system</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109971" creationdate="20251205T082644Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109971</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Реализация системы доставки заказов</prop>
+        <prop type="x-context-post">2.2. Задачи проекта</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Внедрение функции вызова курьера</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Implementation of the courier call function</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109972" creationdate="20251205T082645Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109972</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Внедрение функции вызова курьера</prop>
+        <prop type="x-context-post">Предоставить удобное меню с возможностью выбора нескольких позиций</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>2.2. Задачи проекта</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>2.2. Objectives of the project:</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109973" creationdate="20251205T082646Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109973</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">2.2. Задачи проекта</prop>
+        <prop type="x-context-post">Обеспечить оплату заказов по QR-коду с подтверждением успешной оплаты</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Предоставить удобное меню с возможностью выбора нескольких позиций</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Provide a convenient menu with the ability to select multiple items</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109974" creationdate="20251205T082646Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109974</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Предоставить удобное меню с возможностью выбора нескольких позиций</prop>
+        <prop type="x-context-post">Реализовать выбор способа получения заказа: самовывоз или доставка</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Обеспечить оплату заказов по QR-коду с подтверждением успешной оплаты</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Ensure payment of orders using a QR code with confirmation of successful payment</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109975" creationdate="20251205T082647Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109975</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Обеспечить оплату заказов по QR-коду с подтверждением успешной оплаты</prop>
+        <prop type="x-context-post">Внедрить нейросетевой чат для общения с пользователями</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Реализовать выбор способа получения заказа: самовывоз или доставка</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Implement the choice of the order pickup method: pickup or delivery</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109976" creationdate="20251205T082647Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109976</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Реализовать выбор способа получения заказа: самовывоз или доставка</prop>
+        <prop type="x-context-post">Добавить систему NFT-стикеров для фиксации уникальных позиций в меню</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Внедрить нейросетевой чат для общения с пользователями</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Introduce a neural network chat to communicate with users</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109977" creationdate="20251205T082649Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109977</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Внедрить нейросетевой чат для общения с пользователями</prop>
+        <prop type="x-context-post">3. Функциональные требования</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Добавить систему NFT-стикеров для фиксации уникальных позиций в меню</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Add a system of NFT stickers to fix unique positions in the menu</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109978" creationdate="20251205T082651Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109978</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Добавить систему NFT-стикеров для фиксации уникальных позиций в меню</prop>
+        <prop type="x-context-post">3.1. Меню</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>3. Функциональные требования</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>5.3 Performance Requirements</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109979" creationdate="20251205T082651Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109979</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">3. Функциональные требования</prop>
+        <prop type="x-context-post">Отображение списка доступных позиций кофе</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>3.1. Меню</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>3.1. Menu</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109980" creationdate="20251205T082652Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109980</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">3.1. Меню</prop>
+        <prop type="x-context-post">Возможность выбора нескольких позиций в одном заказе</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Отображение списка доступных позиций кофе</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Display a list of available coffee items</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109981" creationdate="20251205T082653Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109981</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Отображение списка доступных позиций кофе</prop>
+        <prop type="x-context-post">3.2. Оплата</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Возможность выбора нескольких позиций в одном заказе</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Ability to select multiple items in the same order</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109982" creationdate="20251205T082653Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109982</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Возможность выбора нескольких позиций в одном заказе</prop>
+        <prop type="x-context-post">Генерация QR-кода для оплаты заказа</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>3.2. Оплата</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>3.2. Payment</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109983" creationdate="20251205T082654Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109983</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">3.2. Оплата</prop>
+        <prop type="x-context-post">Подтверждение пользователю об успешной оплате</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Генерация QR-кода для оплаты заказа</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Generating a QR code to pay for the order</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109984" creationdate="20251205T082655Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109984</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Генерация QR-кода для оплаты заказа</prop>
+        <prop type="x-context-post">3.3. Получение заказа</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Подтверждение пользователю об успешной оплате</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Confirmation of successful payment to the user</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109985" creationdate="20251205T082655Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109985</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Подтверждение пользователю об успешной оплате</prop>
+        <prop type="x-context-post">Выбор формата получения: самовывоз или доставка курьером</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>3.3. Получение заказа</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>3.3. Receiving an order</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109986" creationdate="20251205T082656Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109986</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">3.3. Получение заказа</prop>
+        <prop type="x-context-post">При выборе доставки - запрос адреса доставки</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Выбор формата получения: самовывоз или доставка курьером</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Choice of pickup format: pickup or delivery by courier</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109987" creationdate="20251205T082656Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109987</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Выбор формата получения: самовывоз или доставка курьером</prop>
+        <prop type="x-context-post">3.4. Дополнительные функции</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>При выборе доставки - запрос адреса доставки</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>When choosing a delivery - request a delivery address</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109988" creationdate="20251205T082657Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109988</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">При выборе доставки - запрос адреса доставки</prop>
+        <prop type="x-context-post">Интеграция нейросетевого чат-бота для общения</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>3.4. Дополнительные функции</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>3.4. Additional functions</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109989" creationdate="20251205T082657Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109989</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">3.4. Дополнительные функции</prop>
+        <prop type="x-context-post">Внедрение NFT-стикеров в Telegram</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Интеграция нейросетевого чат-бота для общения</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Integration of a neural network chatbot for communication</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109990" creationdate="20251205T082658Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109990</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Интеграция нейросетевого чат-бота для общения</prop>
+        <prop type="x-context-post">4. Требования к интерфейсу</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Внедрение NFT-стикеров в Telegram</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Introduction of NFT stickers in Telegram</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109991" creationdate="20251205T082659Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109991</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Внедрение NFT-стикеров в Telegram</prop>
+        <prop type="x-context-post">4.1. Простота использования</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>4. Требования к интерфейсу</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>3.4 Interface requirements</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109992" creationdate="20251205T082659Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109992</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">4. Требования к интерфейсу</prop>
+        <prop type="x-context-post">Понятный интерфейс с минимальным числом шагов для заказа</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>4.1. Простота использования</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>4.1. Ease of use</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109993" creationdate="20251205T082700Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109993</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">4.1. Простота использования</prop>
+        <prop type="x-context-post">Четкое отображение меню с возможностью выбора позиций</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Понятный интерфейс с минимальным числом шагов для заказа</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Intuitive interface with a minimum number of steps to order</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109994" creationdate="20251205T082701Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109994</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Понятный интерфейс с минимальным числом шагов для заказа</prop>
+        <prop type="x-context-post">4.2. Навигация</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Четкое отображение меню с возможностью выбора позиций</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Clear menu display with selectable items</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109995" creationdate="20251205T082702Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109995</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Четкое отображение меню с возможностью выбора позиций</prop>
+        <prop type="x-context-post">Четко обозначенные кнопки и команды</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>4.2. Навигация</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>4.2. Navigation</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109996" creationdate="20251205T082703Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109996</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">4.2. Навигация</prop>
+        <prop type="x-context-post">Легкий переход между разделами меню</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Четко обозначенные кнопки и команды</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Clearly marked buttons and commands</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109997" creationdate="20251205T082704Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109997</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Четко обозначенные кнопки и команды</prop>
+        <prop type="x-context-post">4.3. Уведомления</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Легкий переход между разделами меню</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Easily navigate between menu sections</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109998" creationdate="20251205T082704Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109998</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Легкий переход между разделами меню</prop>
+        <prop type="x-context-post">Понятные уведомления об успешной оплате</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>4.3. Уведомления</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>4.3. Notices</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795109999" creationdate="20251205T082705Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795109999</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">4.3. Уведомления</prop>
+        <prop type="x-context-post">Сообщения с выбором способа получения заказа</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Понятные уведомления об успешной оплате</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Clear notifications of successful payment</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110000" creationdate="20251205T082706Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110000</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Понятные уведомления об успешной оплате</prop>
+        <prop type="x-context-post">4.4. Визуальное оформление</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Сообщения с выбором способа получения заказа</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Pickup Method Pickup Messages</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110001" creationdate="20251205T082706Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110001</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Сообщения с выбором способа получения заказа</prop>
+        <prop type="x-context-post">Использование эмодзи для вовлечения пользователей</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>4.4. Визуальное оформление</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>4.4. Visual design</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110002" creationdate="20251205T082707Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110002</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">4.4. Визуальное оформление</prop>
+        <prop type="x-context-post">Удобное отображение QR-кода для оплаты</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Использование эмодзи для вовлечения пользователей</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Using emojis to engage users</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110003" creationdate="20251205T082707Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110003</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Использование эмодзи для вовлечения пользователей</prop>
+        <prop type="x-context-post">5. Нефункциональные требования</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Удобное отображение QR-кода для оплаты</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Convenient display of the QR code for payment</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110004" creationdate="20251205T082709Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110004</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Удобное отображение QR-кода для оплаты</prop>
+        <prop type="x-context-post">5.1. Производительность</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>5. Нефункциональные требования</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Non-functional requirements</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110005" creationdate="20251205T082710Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110005</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">5. Нефункциональные требования</prop>
+        <prop type="x-context-post">Быстрое время отклика бота</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>5.1. Производительность</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>5.1. Performance</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110006" creationdate="20251205T082712Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110006</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">5.1. Производительность</prop>
+        <prop type="x-context-post">Обработка до 100 активных пользователей одновременно</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Быстрое время отклика бота</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Fast bot response time</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110007" creationdate="20251205T082712Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110007</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Быстрое время отклика бота</prop>
+        <prop type="x-context-post">5.2. Безопасность</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Обработка до 100 активных пользователей одновременно</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Processing up to 100 active users at a time</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110008" creationdate="20251205T082713Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110008</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Обработка до 100 активных пользователей одновременно</prop>
+        <prop type="x-context-post">Защита пользовательских данных</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>5.2. Безопасность</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>5.2 Security&lt;x id="1"/&gt; </seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110009" creationdate="20251205T082714Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110009</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">5.2. Безопасность</prop>
+        <prop type="x-context-post">Безопасная обработка платежной информации</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Защита пользовательских данных</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Protection of user data</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110010" creationdate="20251205T082714Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110010</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Защита пользовательских данных</prop>
+        <prop type="x-context-post">5.3. Обслуживание</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Безопасная обработка платежной информации</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Secure processing of payment information</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110011" creationdate="20251205T082715Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110011</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Безопасная обработка платежной информации</prop>
+        <prop type="x-context-post">Легкость в обновлении и техническом сопровождении</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>5.3. Обслуживание</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>5.3. Service</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110012" creationdate="20251205T082716Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110012</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">5.3. Обслуживание</prop>
+        <prop type="x-context-post">6. Интеграции</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Легкость в обновлении и техническом сопровождении</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Easy to update and maintain</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110013" creationdate="20251205T082717Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110013</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Легкость в обновлении и техническом сопровождении</prop>
+        <prop type="x-context-post">6.1. Основные интеграции</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>6. Интеграции</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>6. Integrations</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110014" creationdate="20251205T082718Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110014</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">6. Интеграции</prop>
+        <prop type="x-context-post">Telegram Bot API для взаимодействия с пользователями</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>6.1. Основные интеграции</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>6.1. Main integrations</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110015" creationdate="20251205T082718Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110015</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">6.1. Основные интеграции</prop>
+        <prop type="x-context-post">Платежные сервисы для генерации QR-кодов</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Telegram Bot API для взаимодействия с пользователями</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Telegram Bot API for user interaction</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110016" creationdate="20251205T082719Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110016</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Telegram Bot API для взаимодействия с пользователями</prop>
+        <prop type="x-context-post">База данных для хранения информации о заказах</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Платежные сервисы для генерации QR-кодов</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Payment services for generating QR codes</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110017" creationdate="20251205T082720Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110017</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Платежные сервисы для генерации QR-кодов</prop>
+        <prop type="x-context-post">6.2. Дополнительные интеграции</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>База данных для хранения информации о заказах</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Database for storing order information</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110018" creationdate="20251205T082721Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110018</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">База данных для хранения информации о заказах</prop>
+        <prop type="x-context-post">Платформа для создания и передачи NFT-стикеров</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>6.2. Дополнительные интеграции</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>6.2. Additional integrations</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110019" creationdate="20251205T082721Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110019</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">6.2. Дополнительные интеграции</prop>
+        <prop type="x-context-post">API для нейросетевого чата</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Платформа для создания и передачи NFT-стикеров</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Platform for creating and transmitting NFT stickers</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110020" creationdate="20251205T082722Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110020</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Платформа для создания и передачи NFT-стикеров</prop>
+        <prop type="x-context-post">7. Ограничения</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>API для нейросетевого чата</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Neural Network Chat API</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110021" creationdate="20251205T082722Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110021</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">API для нейросетевого чата</prop>
+        <prop type="x-context-post">7.1. Технические ограничения</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>7. Ограничения</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>7. Limitations.</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110022" creationdate="20251205T082724Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110022</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">7. Ограничения</prop>
+        <prop type="x-context-post">Работа только в рамках Telegram</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>7.1. Технические ограничения</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>7.1. Technical limitations</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110023" creationdate="20251205T082724Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110023</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">7.1. Технические ограничения</prop>
+        <prop type="x-context-post">Поэтапная реализация дополнительных функций</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Работа только в рамках Telegram</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Work only within Telegram</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110024" creationdate="20251205T082725Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110024</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Работа только в рамках Telegram</prop>
+        <prop type="x-context-post">7.2. Допущения</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Поэтапная реализация дополнительных функций</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Step-by-step implementation of additional functions</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110025" creationdate="20251205T082727Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110025</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Поэтапная реализация дополнительных функций</prop>
+        <prop type="x-context-post">QR-код соответствует системе СБП</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>7.2. Допущения</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>7.2. Assumptions</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110026" creationdate="20251205T082728Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110026</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">7.2. Допущения</prop>
+        <prop type="x-context-post">Пользователи обладают базовыми навыками работы с Telegram</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>QR-код соответствует системе СБП</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>The QR code corresponds to the FPS system</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110027" creationdate="20251205T082729Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110027</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">QR-код соответствует системе СБП</prop>
+        <prop type="x-context-post">Регулярное техническое обслуживание системы</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Пользователи обладают базовыми навыками работы с Telegram</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Users have basic skills in working with Telegram</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110028" creationdate="20251205T082730Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110028</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Пользователи обладают базовыми навыками работы с Telegram</prop>
+        <prop type="x-context-post">8. Критерии приемки</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Регулярное техническое обслуживание системы</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Regular maintenance of the system</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110029" creationdate="20251205T082730Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110029</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Регулярное техническое обслуживание системы</prop>
+        <prop type="x-context-post">8.1. Функциональность</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>8. Критерии приемки</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Acceptance criteria</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110030" creationdate="20251205T082735Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110030</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">8. Критерии приемки</prop>
+        <prop type="x-context-post">Все заявленные функции реализованы и работают</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>8.1. Функциональность</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>8.1. Functionality</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110031" creationdate="20251205T082737Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110031</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">8.1. Функциональность</prop>
+        <prop type="x-context-post">Пользователь может выполнить полный цикл заказа</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Все заявленные функции реализованы и работают</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>All the declared functions are implemented and working</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110032" creationdate="20251205T082737Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110032</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Все заявленные функции реализованы и работают</prop>
+        <prop type="x-context-post">Интерфейс понятен и удобен для использования</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Пользователь может выполнить полный цикл заказа</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>The user can complete the full order cycle</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110033" creationdate="20251205T082738Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110033</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Пользователь может выполнить полный цикл заказа</prop>
+        <prop type="x-context-post">8.2. Безопасность</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Интерфейс понятен и удобен для использования</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>The interface is clear and easy to use</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110034" creationdate="20251205T082739Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110034</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Интерфейс понятен и удобен для использования</prop>
+        <prop type="x-context-post">Обеспечена безопасная обработка платежных данных</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>8.2. Безопасность</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>8.2. Safety</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110035" creationdate="20251205T082739Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110035</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">8.2. Безопасность</prop>
+        <prop type="x-context-post">Защищены персональные данные пользователей</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Обеспечена безопасная обработка платежных данных</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Secure processing of payment data is ensured</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110036" creationdate="20251205T082740Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110036</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Обеспечена безопасная обработка платежных данных</prop>
+        <prop type="x-context-post">8.3. Интеграции</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Защищены персональные данные пользователей</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Users' personal data is protected</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110037" creationdate="20251205T082741Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110037</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Защищены персональные данные пользователей</prop>
+        <prop type="x-context-post">Все сторонние сервисы успешно интегрированы</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>8.3. Интеграции</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>8.3. Integrations</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110038" creationdate="20251205T082744Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110038</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">8.3. Интеграции</prop>
+        <prop type="x-context-post">Выявленные ошибки исправлены</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Все сторонние сервисы успешно интегрированы</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>All third party services successfully integrated</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110039" creationdate="20251205T082745Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110039</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Все сторонние сервисы успешно интегрированы</prop>
+        <prop type="x-context-post">8.4. Документация</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Выявленные ошибки исправлены</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Known issues have been resolved.</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110040" creationdate="20251205T082746Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110040</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Выявленные ошибки исправлены</prop>
+        <prop type="x-context-post">Предоставлена документация по использованию системы</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>8.4. Документация</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>8.4 Documentation</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110041" creationdate="20251205T082746Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110041</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">8.4. Документация</prop>
+        <prop type="x-context-post">Имеется документация по техническому обслуживанию</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Предоставлена документация по использованию системы</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Documentation on the use of the system is provided</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110042" creationdate="20251205T082747Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110042</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Предоставлена документация по использованию системы</prop>
+        <prop type="x-context-post">9. Дополнительные компоненты</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Имеется документация по техническому обслуживанию</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Maintenance Documentation:</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110043" creationdate="20251205T082747Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110043</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Имеется документация по техническому обслуживанию</prop>
+        <prop type="x-context-post">9.1. Нейросетевой чат</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>9. Дополнительные компоненты</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Additional components</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110044" creationdate="20251205T082748Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110044</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">9. Дополнительные компоненты</prop>
+        <prop type="x-context-post">Реализация общения с пользователями в развлекательных целях</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>9.1. Нейросетевой чат</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>9.1. Neural network chat</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110045" creationdate="20251205T082749Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110045</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">9.1. Нейросетевой чат</prop>
+        <prop type="x-context-post">Создание псевдо-уникального пользовательского опыта</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Реализация общения с пользователями в развлекательных целях</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Implementation of communication with users for entertainment purposes</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110046" creationdate="20251205T082749Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110046</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Реализация общения с пользователями в развлекательных целях</prop>
+        <prop type="x-context-post">9.2. NFT-стикеры</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Создание псевдо-уникального пользовательского опыта</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Creating a pseudo-unique user experience</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110047" creationdate="20251205T082751Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110047</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Создание псевдо-уникального пользовательского опыта</prop>
+        <prop type="x-context-post">Система стикеров для фиксации уникальных позиций меню</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>9.2. NFT-стикеры</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>9.2. NFT stickers</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110048" creationdate="20251205T082752Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110048</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">9.2. NFT-стикеры</prop>
+        <prop type="x-context-post">Интеграция с платформой Telegram</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Система стикеров для фиксации уникальных позиций меню</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>A sticker system for capturing unique menu items</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110049" creationdate="20251205T082752Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110049</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Система стикеров для фиксации уникальных позиций меню</prop>
+        <prop type="x-context-post">ЛИСТ РЕГИСТРАЦИИ ИЗМЕНЕНИЙ</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Интеграция с платформой Telegram</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Integration with the Telegram platform</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110050" creationdate="20251205T082753Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110050</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Интеграция с платформой Telegram</prop>
+        <prop type="x-context-post">Номера листов (страниц)</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>ЛИСТ РЕГИСТРАЦИИ ИЗМЕНЕНИЙ</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>DOCUMENT REVISION SHEET</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110051" creationdate="20251205T082754Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110051</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">ЛИСТ РЕГИСТРАЦИИ ИЗМЕНЕНИЙ</prop>
+        <prop type="x-context-post">Всего листов (страниц) в докум.</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Номера листов (страниц)</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Page Numbers</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110052" creationdate="20251205T082754Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110052</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Номера листов (страниц)</prop>
+        <prop type="x-context-post">&#8470; документа</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Всего листов (страниц) в докум.</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Total sheets (pages) in document</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110053" creationdate="20251205T082755Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110053</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Всего листов (страниц) в докум.</prop>
+        <prop type="x-context-post">Входящий номер доп. </prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>&#8470; документа</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>№ документа</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110054" creationdate="20251205T082756Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110054</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">&#8470; документа</prop>
+        <prop type="x-context-post">Документа и дата</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Входящий номер доп. </seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Reference number </seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110055" creationdate="20251205T082756Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110055</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Входящий номер доп. </prop>
+        <prop type="x-context-post">Подп.</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Документа и дата</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Document and date</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110056" creationdate="20251205T082757Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110056</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Документа и дата</prop>
+        <prop type="x-context-post">Дата</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Подп.</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Signature</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110057" creationdate="20251205T082757Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110057</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Подп.</prop>
+        <prop type="x-context-post">Изм.</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Дата</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Date</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110058" creationdate="20251205T082758Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110058</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Дата</prop>
+        <prop type="x-context-post">изменен- ных</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>Изм.</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>Change</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110059" creationdate="20251205T082759Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110059</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">Изм.</prop>
+        <prop type="x-context-post">заменен- ных</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>изменен- ных</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>updated</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110060" creationdate="20251205T082800Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110060</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">изменен- ных</prop>
+        <prop type="x-context-post">новых</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>заменен- ных</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>replaced</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110061" creationdate="20251205T082800Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110061</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">заменен- ных</prop>
+        <prop type="x-context-post">аннулиро- ванных</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>новых</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>new</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110062" creationdate="20251205T082801Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110062</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">новых</prop>
+        <prop type="x-context-post">АБВГ.00099-01 13 01</prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>аннулиро- ванных</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>annulled</seg>
+        </tuv>
+    </tu>
+
+    <tu tuid="4795110064" creationdate="20251205T082808Z" datatype="plaintext" srclang="ru-RU">
+        <prop type="x-MateCAT-id_job">11882967</prop>
+        <prop type="x-MateCAT-id_segment">4795110064</prop>
+        <prop type="x-MateCAT-filename">demo-espd.pdf</prop>
+        <prop type="x-MateCAT-status">TRANSLATED</prop>
+        <prop type="x-context-pre">аннулиро- ванных</prop>
+        <prop type="x-context-post"></prop>
+        
+        
+        <tuv xml:lang="ru-RU">
+            <seg>АБВГ.00099-01 13 01</seg>
+        </tuv>
+        <tuv xml:lang="en-US">
+            <seg>ABVG.00099-01 13 01</seg>
+        </tuv>
+    </tu>
+
+    </body>
+</tmx>
