@@ -1,0 +1,16 @@
+C:\Users\argument\OneDrive\Рабочий стол\CoffeeBotRAG\CoffeeBotRAG\CoffeeBotRAG\bin\Debug\net9.0-windows\CoffeeBotRAG.exe
+C:\Users\argument\OneDrive\Рабочий стол\CoffeeBotRAG\CoffeeBotRAG\CoffeeBotRAG\bin\Debug\net9.0-windows\CoffeeBotRAG.deps.json
+C:\Users\argument\OneDrive\Рабочий стол\CoffeeBotRAG\CoffeeBotRAG\CoffeeBotRAG\bin\Debug\net9.0-windows\CoffeeBotRAG.runtimeconfig.json
+C:\Users\argument\OneDrive\Рабочий стол\CoffeeBotRAG\CoffeeBotRAG\CoffeeBotRAG\bin\Debug\net9.0-windows\CoffeeBotRAG.dll
+C:\Users\argument\OneDrive\Рабочий стол\CoffeeBotRAG\CoffeeBotRAG\CoffeeBotRAG\bin\Debug\net9.0-windows\CoffeeBotRAG.pdb
+C:\Users\argument\OneDrive\Рабочий стол\CoffeeBotRAG\CoffeeBotRAG\CoffeeBotRAG\obj\Debug\net9.0-windows\CoffeeBotRAG.Form1.resources
+C:\Users\argument\OneDrive\Рабочий стол\CoffeeBotRAG\CoffeeBotRAG\CoffeeBotRAG\obj\Debug\net9.0-windows\CoffeeBotRAG.csproj.GenerateResource.cache
+C:\Users\argument\OneDrive\Рабочий стол\CoffeeBotRAG\CoffeeBotRAG\CoffeeBotRAG\obj\Debug\net9.0-windows\CoffeeBotRAG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argument\OneDrive\Рабочий стол\CoffeeBotRAG\CoffeeBotRAG\CoffeeBotRAG\obj\Debug\net9.0-windows\CoffeeBotRAG.AssemblyInfoInputs.cache
+C:\Users\argument\OneDrive\Рабочий стол\CoffeeBotRAG\CoffeeBotRAG\CoffeeBotRAG\obj\Debug\net9.0-windows\CoffeeBotRAG.AssemblyInfo.cs
+C:\Users\argument\OneDrive\Рабочий стол\CoffeeBotRAG\CoffeeBotRAG\CoffeeBotRAG\obj\Debug\net9.0-windows\CoffeeBotRAG.csproj.CoreCompileInputs.cache
+C:\Users\argument\OneDrive\Рабочий стол\CoffeeBotRAG\CoffeeBotRAG\CoffeeBotRAG\obj\Debug\net9.0-windows\CoffeeBotRAG.dll
+C:\Users\argument\OneDrive\Рабочий стол\CoffeeBotRAG\CoffeeBotRAG\CoffeeBotRAG\obj\Debug\net9.0-windows\refint\CoffeeBotRAG.dll
+C:\Users\argument\OneDrive\Рабочий стол\CoffeeBotRAG\CoffeeBotRAG\CoffeeBotRAG\obj\Debug\net9.0-windows\CoffeeBotRAG.pdb
+C:\Users\argument\OneDrive\Рабочий стол\CoffeeBotRAG\CoffeeBotRAG\CoffeeBotRAG\obj\Debug\net9.0-windows\CoffeeBotRAG.genruntimeconfig.cache
+C:\Users\argument\OneDrive\Рабочий стол\CoffeeBotRAG\CoffeeBotRAG\CoffeeBotRAG\obj\Debug\net9.0-windows\ref\CoffeeBotRAG.dll
